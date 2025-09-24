@@ -14,3 +14,10 @@
 <p align="center">
 <img width="288" height="156" alt="image" src="https://github.com/user-attachments/assets/cd87bd89-177b-4484-9b2e-4cae506dddaf" />
 </p>
+
+หลักจากนั้น นำข้อมูลของdataestนี้ เพื่อสังเกตว่าประเภทอาหารทั้งหมดประกอบแหล่งพลังงานหลักอะไรบ้าง พบว่า พลังงานรวม‘ส่วนใหญ่’มาจาก 
+ไขมัน ≈41.5%(835057.80 kcal) รองลงมาคือคาร์โบไฮเดรต ≈38.7%(777718.04 kcal)  ส่วนโปรตีนอยู่ที่ ≈19.8%(398866.48 kcal
+
+<p align="center">
+<img width="622" height="505" alt="image" src="https://github.com/user-attachments/assets/98032d6a-2d25-4184-8d04-d5bc803cd16f" />
+</p>
