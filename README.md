@@ -1,2 +1,14 @@
-# nutrition-analysis
-My practice project on nutrition analysis (EDA + visualizations with pandas/matplotlib).
+# Mini-Project : Nutrition Data Analysis
+โปรเจกต์นี้เป็นการสำรวจและวิเคราะห์ข้อมูลโภชนาการจากไฟล์ `nutrition.csv`  โดยใช้ Python และ Jupyter/Colab เพื่อหาความเข้าใจ (Insight) ที่เกี่ยวข้องกับ  
+**แคลอรี่ โปรตีน ไขมัน น้ำตาล และไฟเบอร์**  ซึ่งสามารถนำไปปรับใช้กับการควบคุมน้ำหนัก การกินเพื่อสุขภาพ และการสร้างกล้ามเนื้อ
+สำหรับ Mini-project นี้จะประกอบไปด้วยการนำเสนอ 4 ส่วนได้กัน ได้แก่
+1) แหล่งพลังงานหลักของประเภทอาหารมาจากอะไร
+2) “ความหนาแน่นพลังงาน” (Calories per gram) ของอาหารแตกต่างกันอย่างไร
+3) อาหารเพื่อสุขภาพจริงหรือแค่ภาพลักษณ์
+4) Insight เพื่อ Action Plan
+
+## Part 1 แหล่งพลังงานหลักของประเภทอาหารมาจากอะไร
+จากข้อมูลของโภชนาการที่ได้จาก dataset พบว่า อาหารพวกตระกลูถั่วจะให้พลังงานค่อนข้างสูงได้จากไขมัน อาหารพวกผักมีพลังงานต่ำ 
+และ ของหวาน (sherbet) พลังงานมาจากน้ำตาลเป็นหลัก
+<img width="288" height="156" alt="image" src="https://github.com/user-attachments/assets/cd87bd89-177b-4484-9b2e-4cae506dddaf" />
+
