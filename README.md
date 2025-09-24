@@ -19,7 +19,7 @@
 ไขมัน ≈41.5%(835057.80 kcal) รองลงมาคือคาร์โบไฮเดรต ≈38.7%(777718.04 kcal)  ส่วนโปรตีนอยู่ที่ ≈19.8%(398866.48 kcal)
 
 <p align="center">
-<img width="622" height="505" alt="image" src="https://github.com/user-attachments/assets/98032d6a-2d25-4184-8d04-d5bc803cd16f" />
+<img width="497" height="505" alt="image" src="https://github.com/user-attachments/assets/56070034-6fdc-4d44-ae41-9a11d04d1a4d" />
 </p>
 
 เนื่องจากแหล่งพลังงานหลักส่วนใหญ่มักจะเป็นไขมันและน้ำตาล เราจึงอยากทราบว่าอาหารประเภทไหน ที่มีปริมาณของแคลลอรี่สูง
