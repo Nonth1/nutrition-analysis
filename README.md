@@ -11,6 +11,6 @@
 จากข้อมูลของโภชนาการที่ได้จาก dataset พบว่า อาหารพวกตระกลูถั่วจะให้พลังงานค่อนข้างสูงได้จากไขมัน อาหารพวกผักมีพลังงานต่ำ 
 และ ของหวาน (sherbet) พลังงานมาจากน้ำตาลเป็นหลัก
 
-
-                                  <img width="288" height="156" alt="image" src="https://github.com/user-attachments/assets/cd87bd89-177b-4484-9b2e-4cae506dddaf" />
-
+<p align="center">
+<img width="288" height="156" alt="image" src="https://github.com/user-attachments/assets/cd87bd89-177b-4484-9b2e-4cae506dddaf" />
+</p>
