@@ -21,7 +21,7 @@
 <p align="center">
 <img width="497" height="505" alt="image" src="https://github.com/user-attachments/assets/56070034-6fdc-4d44-ae41-9a11d04d1a4d" />
 </p>
-
+Figure 2: Main Sources of Energy 
 เนื่องจากแหล่งพลังงานหลักส่วนใหญ่มักจะเป็นไขมันและน้ำตาล เราจึงอยากทราบว่าอาหารประเภทไหน ที่มีปริมาณของแคลลอรี่สูง
 
 <p align="center">
